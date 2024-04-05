@@ -1,4 +1,4 @@
-# DigitRecognition using Multilayer Perceptron
+# DIGIT RECOGNITION USING MULTI LAYER PERCEPTRON
 # Overview
 - This project aims to implement a digit recognition system using a Multilayer Perceptron (MLP) neural network.
 - The objective is to build a model capable of accurately classifying handwritten digits (0-9) based on pixel values.
